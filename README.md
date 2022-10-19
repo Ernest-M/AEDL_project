@@ -1,6 +1,7 @@
 # AEDL_project
 ## Acoustic Event Detection and Localisation
 In this project, we perform:
+
 ..*  Real-time implementation of Acoustic Event classification 
 ..*  Real-time Acoustic Event Localisation.
 We implemented the project using:
